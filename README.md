@@ -42,3 +42,17 @@ version: '3.7'
 ### Persona's Available
 - [x] default
 - [x] developer
+
+### Contributing
+
+Contributions are welcome! Please follow these security best practices:
+
+Pull Requests: Submit changes through pull requests for code review.
+
+Security Testing: Run all tests, including static analysis and dependency checks.
+
+Secrets Management: Do not hardcode any sensitive information; use environment variables.
+
+### License
+
+This project is open source under the MIT License.
