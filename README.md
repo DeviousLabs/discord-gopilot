@@ -1,5 +1,6 @@
 # Discord Gopilot
-Meet Gopilot: a cutting-edge bot crafted in Go, designed to integrate AI models seamlessly into Discord channels. This bot allows users to effortlessly utilize AI tools to generate code snippets, solve algorithmic problems, and assist with project tasks, directly within their Discord communities. Enhance your coding and collaboration efficiency with Discord Gopilot, bringing advanced AI expertise right to your fingertips.
+
+Gopilot is a Discord bot written in Go that integrates AI models via the Cloudflare AI API. It allows users to generate code snippets, solve algorithmic problems, and assist with project tasks directly within their Discord channels, making AI tools easily accessible to developers and project teams.
 
 ### Docker Build Example
 ```
@@ -41,3 +42,17 @@ version: '3.7'
 ### Persona's Available
 - [x] default
 - [x] developer
+
+### Contributing
+
+Contributions are welcome! Please follow these security best practices:
+
+Pull Requests: Submit changes through pull requests for code review.
+
+Security Testing: Run all tests, including static analysis and dependency checks.
+
+Secrets Management: Do not hardcode any sensitive information; use environment variables.
+
+### License
+
+This project is open source under the MIT License.
