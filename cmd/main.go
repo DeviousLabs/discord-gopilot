@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"discord-gopilot/pkg/discord"
+	"github.com/DeviousLabs/discord-gopilot/pkg/discord"
 )
 
 func main() {

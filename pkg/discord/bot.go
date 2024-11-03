@@ -2,11 +2,12 @@ package discord
 
 import (
 	"bytes"
-	"discord-gopilot/pkg/ai"
 	"fmt"
 	"os"
 	"regexp"
 	"strings"
+
+	"github.com/DeviousLabs/discord-gopilot/pkg/ai"
 
 	"github.com/bwmarrin/discordgo"
 	"golang.org/x/net/html"

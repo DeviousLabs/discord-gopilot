@@ -1,4 +1,4 @@
-module discord-gopilot
+module github.com/DeviousLabs/discord-gopilot
 
 go 1.22.2
 
